@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Alec Albright
 
-# Your Github username
+# Alec211
 
 # List the things you added for points
